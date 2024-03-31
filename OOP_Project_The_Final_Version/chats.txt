@@ -1,0 +1,25 @@
+toka@ sends message to janaessam@ hi jana
+
+toka@ sends message to janaessam@ test 1
+
+toka@ sends message to janaessam@ hi janahani and jana essam
+toka@ sends message to janahani@ hi janahani and jana essam
+
+toka@ sends message to janaessam@ hi janaessam only
+
+janaessam@ sends message to toka@ hi jana and toka
+janaessam@ sends message to janahani@ hi jana and toka
+
+janaessam@ sends message to toka@ hello my friends
+janaessam@ sends message to janahani@ hello my friends
+
+janaessam@ sends message to toka@ hello toka
+
+toka@ sends message to hazem@ test conv
+toka@ sends message to janahani@ test conv
+
+toka@ sends message to hazem@ test 2
+toka@ sends message to janahani@ test 2
+
+toka@ sends message to janaessam@ test again
+

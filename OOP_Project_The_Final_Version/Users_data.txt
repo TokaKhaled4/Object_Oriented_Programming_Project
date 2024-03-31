@@ -1,0 +1,34 @@
+The Names:
+
+Name: toka khaled
+Name: jana essam
+Name: jana hani
+Name: hazem
+
+The Gender:
+
+Gender: female
+Gender: female
+Gender: female
+Gender: male
+
+The Emails:
+
+Email: toka@
+Email: janaessam@
+Email: janahani@
+Email: hazem@
+
+The Passwords:
+
+Password: toka
+Password: janaessam
+Password: janahani
+Password: hazem
+
+The BirthDates:
+
+Birth_date: 4-4-2004
+Birth_date: 1-3-2004
+Birth_date: 4-1-2005
+Birth_date: 2-2-1000

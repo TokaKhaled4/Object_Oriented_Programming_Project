@@ -1,0 +1,8 @@
+This friend of toka@ is regular : janaessam@
+This friend of toka@ is restricted : janahani@
+This friend of janaessam@ is regular : toka@
+This friend of janahani@ is restricted : toka@
+This friend of janahani@ is regular : janaessam@
+This friend of janaessam@ is regular : janahani@
+This friend of hazem@ is regular : toka@
+This friend of toka@ is regular : hazem@

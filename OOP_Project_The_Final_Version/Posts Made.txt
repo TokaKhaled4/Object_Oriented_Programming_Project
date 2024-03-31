@@ -1,0 +1,14 @@
+public Post of janaessam@: test1 public
+--------------------------
+friends only Post of janaessam@: test1 friends only
+--------------------------
+public Post of toka@ mentioned [janahani@]: test janahani
+--------------------------
+friends only Post of toka@: hi friends only
+--------------------------
+public Post of hazem@: test 
+--------------------------
+friends only Post of hazem@: test 2
+--------------------------
+public Post of toka@ mentioned [hazem@]: test tag
+--------------------------
